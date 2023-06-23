@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test1/static/css/main.81fe0cfd.css",
-    "main.js": "/test1/static/js/main.e70a6ce3.js",
-    "static/media/background.jpg": "/test1/static/media/background.d22e67baac23fc53cbe5.jpg",
-    "static/media/WATlogo.jpg": "/test1/static/media/WATlogo.1dd9ab1a9006dc2813a7.jpg",
-    "index.html": "/test1/index.html",
-    "main.81fe0cfd.css.map": "/test1/static/css/main.81fe0cfd.css.map",
-    "main.e70a6ce3.js.map": "/test1/static/js/main.e70a6ce3.js.map"
+    "main.css": "/wca-archive/static/css/main.81fe0cfd.css",
+    "main.js": "/wca-archive/static/js/main.23cd9ac7.js",
+    "static/media/background.jpg": "/wca-archive/static/media/background.d22e67baac23fc53cbe5.jpg",
+    "static/media/WATlogo.jpg": "/wca-archive/static/media/WATlogo.1dd9ab1a9006dc2813a7.jpg",
+    "index.html": "/wca-archive/index.html",
+    "main.81fe0cfd.css.map": "/wca-archive/static/css/main.81fe0cfd.css.map",
+    "main.23cd9ac7.js.map": "/wca-archive/static/js/main.23cd9ac7.js.map"
   },
   "entrypoints": [
     "static/css/main.81fe0cfd.css",
-    "static/js/main.e70a6ce3.js"
+    "static/js/main.23cd9ac7.js"
   ]
 }
