@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wca-archive/static/css/main.81fe0cfd.css",
-    "main.js": "/wca-archive/static/js/main.c268dc9d.js",
+    "main.css": "/wca-archive/static/css/main.5848c46c.css",
+    "main.js": "/wca-archive/static/js/main.64abd2ee.js",
     "static/media/background.jpg": "/wca-archive/static/media/background.d22e67baac23fc53cbe5.jpg",
     "static/media/WATlogo.jpg": "/wca-archive/static/media/WATlogo.1dd9ab1a9006dc2813a7.jpg",
     "index.html": "/wca-archive/index.html",
-    "main.81fe0cfd.css.map": "/wca-archive/static/css/main.81fe0cfd.css.map",
-    "main.c268dc9d.js.map": "/wca-archive/static/js/main.c268dc9d.js.map"
+    "main.5848c46c.css.map": "/wca-archive/static/css/main.5848c46c.css.map",
+    "main.64abd2ee.js.map": "/wca-archive/static/js/main.64abd2ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.81fe0cfd.css",
-    "static/js/main.c268dc9d.js"
+    "static/css/main.5848c46c.css",
+    "static/js/main.64abd2ee.js"
   ]
 }
