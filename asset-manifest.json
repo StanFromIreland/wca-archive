@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wca-archive/static/css/main.a5803b6c.css",
-    "main.js": "/wca-archive/static/js/main.b04e0ac7.js",
+    "main.js": "/wca-archive/static/js/main.3bf37697.js",
     "static/media/WATlogo.png": "/wca-archive/static/media/WATlogo.765b820ab84dc13a2031.png",
     "static/media/logo.png": "/wca-archive/static/media/logo.765b820ab84dc13a2031.png",
     "static/media/background.jpg": "/wca-archive/static/media/background.d22e67baac23fc53cbe5.jpg",
     "index.html": "/wca-archive/index.html",
     "main.a5803b6c.css.map": "/wca-archive/static/css/main.a5803b6c.css.map",
-    "main.b04e0ac7.js.map": "/wca-archive/static/js/main.b04e0ac7.js.map"
+    "main.3bf37697.js.map": "/wca-archive/static/js/main.3bf37697.js.map"
   },
   "entrypoints": [
     "static/css/main.a5803b6c.css",
-    "static/js/main.b04e0ac7.js"
+    "static/js/main.3bf37697.js"
   ]
 }
