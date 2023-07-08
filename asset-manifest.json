@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wca-archive/static/css/main.a5803b6c.css",
-    "main.js": "/wca-archive/static/js/main.684a4d73.js",
-    "static/media/WATlogo.png": "/wca-archive/static/media/WATlogo.765b820ab84dc13a2031.png",
-    "static/media/logo.png": "/wca-archive/static/media/logo.765b820ab84dc13a2031.png",
-    "static/media/background.jpg": "/wca-archive/static/media/background.d22e67baac23fc53cbe5.jpg",
-    "index.html": "/wca-archive/index.html",
-    "main.a5803b6c.css.map": "/wca-archive/static/css/main.a5803b6c.css.map",
-    "main.684a4d73.js.map": "/wca-archive/static/js/main.684a4d73.js.map"
+    "main.css": "/static/css/main.a5803b6c.css",
+    "main.js": "/static/js/main.231d33fc.js",
+    "static/media/WATlogo.png": "/static/media/WATlogo.765b820ab84dc13a2031.png",
+    "static/media/logo.png": "/static/media/logo.765b820ab84dc13a2031.png",
+    "static/media/background.jpg": "/static/media/background.d22e67baac23fc53cbe5.jpg",
+    "index.html": "/index.html",
+    "main.a5803b6c.css.map": "/static/css/main.a5803b6c.css.map",
+    "main.231d33fc.js.map": "/static/js/main.231d33fc.js.map"
   },
   "entrypoints": [
     "static/css/main.a5803b6c.css",
-    "static/js/main.684a4d73.js"
+    "static/js/main.231d33fc.js"
   ]
 }
