@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a5803b6c.css",
-    "main.js": "/static/js/main.f1ed4827.js",
+    "main.js": "/static/js/main.6f23c185.js",
     "static/media/WATlogo.png": "/static/media/WATlogo.765b820ab84dc13a2031.png",
     "static/media/logo.png": "/static/media/logo.765b820ab84dc13a2031.png",
     "static/media/background.jpg": "/static/media/background.d22e67baac23fc53cbe5.jpg",
     "index.html": "/index.html",
     "main.a5803b6c.css.map": "/static/css/main.a5803b6c.css.map",
-    "main.f1ed4827.js.map": "/static/js/main.f1ed4827.js.map"
+    "main.6f23c185.js.map": "/static/js/main.6f23c185.js.map"
   },
   "entrypoints": [
     "static/css/main.a5803b6c.css",
-    "static/js/main.f1ed4827.js"
+    "static/js/main.6f23c185.js"
   ]
 }
